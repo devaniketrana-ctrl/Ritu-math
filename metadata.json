@@ -1,0 +1,8 @@
+{
+  "name": "Math with Ritu",
+  "description": "Personal Math tuition and YouTube channel by Ritu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
